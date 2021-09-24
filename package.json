@@ -1,0 +1,26 @@
+{
+  "name": "try",
+  "version": "1.0.0",
+  "description": "Múkodj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://mandori02: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@github.com/mandori02/First-project.git"
+  },
+  "keywords": [
+    "pls"
+  ],
+  "author": "kurdi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mandori02/First-project/issues"
+  },
+  "homepage": "https://github.com/mandori02/First-project#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "typescript": "^4.4.3"
+  }
+}
